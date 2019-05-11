@@ -27,17 +27,16 @@
 /I Runtime
 /I Runtime\Core\Public
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
 /D_HAS_EXCEPTIONS=0
-/I "C:\Users\etudiant\Documents\MyProject 4.21\Intermediate\Build\Win64\MyProject\Development\Core"
-/Yc"C:\Users\etudiant\Documents\MyProject 4.21\Intermediate\Build\Win64\MyProject\Development\Core\SharedPCH.Core.h"
-/Fp"C:\Users\etudiant\Documents\MyProject 4.21\Intermediate\Build\Win64\MyProject\Development\Core\SharedPCH.Core.h.pch"
-"C:\Users\etudiant\Documents\MyProject 4.21\Intermediate\Build\Win64\MyProject\Development\Core\SharedPCH.Core.cpp"
-/Fo"C:\Users\etudiant\Documents\MyProject 4.21\Intermediate\Build\Win64\MyProject\Development\Core\SharedPCH.Core.h.obj"
+/I D:\PlanetariumVR_final\Intermediate\Build\Win64\MyProject\Development\Core
+/Yc"D:\PlanetariumVR_final\Intermediate\Build\Win64\MyProject\Development\Core\SharedPCH.Core.h"
+/Fp"D:\PlanetariumVR_final\Intermediate\Build\Win64\MyProject\Development\Core\SharedPCH.Core.h.pch"
+"D:\PlanetariumVR_final\Intermediate\Build\Win64\MyProject\Development\Core\SharedPCH.Core.cpp"
+/Fo"D:\PlanetariumVR_final\Intermediate\Build\Win64\MyProject\Development\Core\SharedPCH.Core.h.obj"
 /TP
 /GR-
 /W4

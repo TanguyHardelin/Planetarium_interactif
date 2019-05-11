@@ -52,21 +52,20 @@
 /I Runtime\Core\Public\Traits
 /I Runtime\Core\Public\UObject
 /I Runtime\Core\Public\Windows
-/I "C:\Users\etudiant\Documents\MyProject 4.21\Intermediate"
-/I "C:\Users\etudiant\Documents\MyProject 4.21\Intermediate\Source"
+/I D:\PlanetariumVR_final\Intermediate
+/I D:\PlanetariumVR_final\Intermediate\Source
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
 /D_HAS_EXCEPTIONS=0
-/FI"C:\Users\etudiant\Documents\MyProject 4.21\Intermediate\Build\Win64\MyProject\Development\Core\SharedPCH.Core.h"
-/Yu"C:\Users\etudiant\Documents\MyProject 4.21\Intermediate\Build\Win64\MyProject\Development\Core\SharedPCH.Core.h"
-/Fp"C:\Users\etudiant\Documents\MyProject 4.21\Intermediate\Build\Win64\MyProject\Development\Core\SharedPCH.Core.h.pch"
-"C:\Users\etudiant\Documents\MyProject 4.21\Intermediate\Source\MyProject.cpp"
-/FI"C:\Users\etudiant\Documents\MyProject 4.21\Intermediate\Build\Win64\UE4\Development\MyProject\Definitions.MyProject.h"
-/Fo"C:\Users\etudiant\Documents\MyProject 4.21\Intermediate\Build\Win64\UE4\Development\MyProject\MyProject.cpp.obj"
+/FI"D:\PlanetariumVR_final\Intermediate\Build\Win64\MyProject\Development\Core\SharedPCH.Core.h"
+/Yu"D:\PlanetariumVR_final\Intermediate\Build\Win64\MyProject\Development\Core\SharedPCH.Core.h"
+/Fp"D:\PlanetariumVR_final\Intermediate\Build\Win64\MyProject\Development\Core\SharedPCH.Core.h.pch"
+"D:\PlanetariumVR_final\Intermediate\Source\MyProject.cpp"
+/FI"D:\PlanetariumVR_final\Intermediate\Build\Win64\UE4\Development\MyProject\Definitions.MyProject.h"
+/Fo"D:\PlanetariumVR_final\Intermediate\Build\Win64\UE4\Development\MyProject\MyProject.cpp.obj"
 /TP
 /GR-
 /W4
