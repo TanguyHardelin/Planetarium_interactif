@@ -1,4 +1,3 @@
 # Planetarium_interactif
 
-Lien du tréllo
-https://trello.com/b/M57t75Cm/projet-rv
+Ce projet propose une simulation des règles de la physique de la gravitation en réalité virtuelle. L'objectif est de permettre à des enfants de comprendre les principales lois régissant le système solaire et de se 'confronter' à celle-ci. Il est ainsi possible de s'entrainer au lancement d'astéroides, de visiter les différentes planettes du système solaire, de comprendre le phénomène des éclipses ect ...  
